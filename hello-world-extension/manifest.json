@@ -1,0 +1,14 @@
+{
+  "manifest_version" : 2,
+  "name" : "Hello World!",
+  "version" : "1.0",
+  "description" : "Greets the world.",
+  "icons" : {
+    "192" : "asset/world.png"
+  },
+  "browser_action" : {
+    "default_title" : "Hello World!",
+    "default_popup": "popup.html"
+  },
+  "author" : "Nobody"
+}
