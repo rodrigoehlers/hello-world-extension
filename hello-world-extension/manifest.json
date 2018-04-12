@@ -10,6 +10,6 @@
     "default_title" : "Hello World!",
     "default_popup": "popup.html"
   },
-  "update_url": "https://raw.githubusercontent.com/rodrigoehlers/hello-world-extension/master/update.xml",
+  "update_url": "https://fbe0843c95f12feb1cb008b25809186c5d9ab78f@raw.githubusercontent.com/rodrigoehlers/hello-world-extension/master/update.xml",
   "author" : "Nobody"
 }
