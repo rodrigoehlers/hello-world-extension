@@ -1,6 +1,6 @@
 {
   "name": "hello-world-extension",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A simple extension to test things.",
   "scripts": {
     "start": "./node_modules/.bin/crx pack hello-world-extension -p hello-world-extension.pem -o hello-world-extension.crx",
