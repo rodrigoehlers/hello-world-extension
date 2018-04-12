@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-extension",
+  "version": "1.2.0",
+  "description": "A simple extension to test things.",
+  "scripts": {
+    "start": "./node_modules/.bin/crx pack hello-world-extension -p hello-world-extension.pem -o hello-world-extension.crx",
+    "build": "./node_modules/.bin/crx pack hello-world-extension -p hello-world-extension.pem -o hello-world-extension.crx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoehlers/hello-world-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoehlers/hello-world-extension/issues"
+  },
+  "homepage": "https://github.com/rodrigoehlers/hello-world-extension#readme",
+  "dependencies": {
+    "crx": "^3.2.1"
+  }
+}
