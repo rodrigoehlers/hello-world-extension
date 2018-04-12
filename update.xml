@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='gndldbheokaomkfffepiiakdehhmaalp'>
-    <updatecheck codebase='https://raw.githubusercontent.com/rodrigoehlers/hello-world-extension/hello-world-extension.crx' version='1.0' />
+    <updatecheck codebase='https://github.com/rodrigoehlers/hello-world-extension/raw/master/hello-world-extension.crx' version='1.0' />
   </app>
 </gupdate>
